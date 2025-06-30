@@ -1,2 +1,2 @@
 # MyNote
-SoTayGhiChu
+View the data in the Wiki tab.
